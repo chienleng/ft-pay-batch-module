@@ -1,0 +1,32 @@
+/* Search options styles */
+.search-options {
+  label {
+    color: #666;
+    font-weight: 200;
+    font-size: 0.9em;
+  }
+  h5 {
+    background-color: #eee;
+    padding: 10px 15px;
+    margin: 0 0 10px;
+    font-size: 0.9em;
+  }
+  .panel-footer {
+    text-align: center;
+    background-color: #efefef;
+  }
+}
+
+.search-results {
+  table {
+    font-size: 0.85em;
+    color: #333;
+    th {
+      font-weight: 200;
+      color: #000;
+    }
+    // &.table-striped > tbody > tr:nth-of-type(odd) {
+    //   background-color: #DDECFE;
+    // }
+  }
+}
