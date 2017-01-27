@@ -1,5 +1,4 @@
-console.log('\'Allo \'Allo!');
-
 $(function() {
   $('.date-picker').datetimepicker();
+  $('#payOptions').collapse('toggle');
 })
